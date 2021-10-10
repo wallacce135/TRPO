@@ -1,4 +1,4 @@
-package com.company;
+package Koryakovsky;
 
 import java.util.ArrayList;
 import java.util.List;

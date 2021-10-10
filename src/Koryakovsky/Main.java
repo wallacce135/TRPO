@@ -1,4 +1,4 @@
-package com.company;
+package Koryakovsky;
 
 public class Main {
 
